@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola John
+=======
+hola john
+>>>>>>> 2163fef39e48311b28ff99b674656cf5f7aff9e8
